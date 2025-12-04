@@ -11,4 +11,5 @@ notebooks
 
 * PrepareSampleDataFile.ipynb - notebook to prepare sample data set from large datase
 Pre_processing_FeatureEngineering_Modeling.ipynb - notebook to process text review data utiling TF-IDF: CHI2; FS for different values of k
-Pre_processing_FeatureEngineering_Modeling_Pipeline.ipynb - notebook to process review data usisng TF-IDF; CHI2; without FORWARD SELECTION; Logistic regression runs L1; it has als omodule to add axtra features to evaluate model performancet
+Pre_processing_FeatureEngineering_Modeling_Pipeline.ipynb - notebook to process review data usisng TF-IDF; CHI2; without FORWARD SELECTION; Logistic regression runs L1;
+* Pre_processing_FeatureEngineering_Modeling_Pipeline_User_Feature.ipynb -- run linear regression (L1) + user feature;
